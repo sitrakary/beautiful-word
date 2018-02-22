@@ -251,6 +251,3 @@ def beautiful_word(word, separator='   '):
             current_char = char_map[character.lower()]
             print(current_char[line], end=separator)
         print()
-
-
-beautiful_word('beautiful word')
