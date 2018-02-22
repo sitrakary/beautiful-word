@@ -1,2 +1,2 @@
-# hapi-mongodb
-hapi plugins for mongodb
+# beautiful-word
+Transform a string into big characters.
